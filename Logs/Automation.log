@@ -1,0 +1,83 @@
+2021-04-15 11:43:27,653 - WDM - INFO - ====== WebDriver manager ======
+2021-04-15 11:43:27,684 - WDM - INFO - Current google-chrome version is 89.0.4389
+2021-04-15 11:43:27,684 - WDM - INFO - Get LATEST driver version for 89.0.4389
+2021-04-15 11:43:28,827 - WDM - INFO - Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+2021-04-15 11:43:30,215 - root - INFO - ********Test_002_login_ddt***********
+2021-04-15 11:43:48,873 - root - INFO - ********Passed***********
+2021-04-15 11:43:57,619 - root - INFO - ********Passed***********
+2021-04-15 11:44:03,406 - root - INFO - ********Passed***********
+2021-04-15 11:44:09,251 - root - INFO - ********Passed***********
+2021-04-15 11:44:09,252 - root - INFO - ********Test_002_login_ddt Passed***********
+2021-04-15 11:44:09,421 - root - INFO - ********Completed Test_002_login_ddt ***********
+11:57:32: WDM: INFO: ====== WebDriver manager ======
+11:57:32: WDM: INFO: Current google-chrome version is 89.0.4389
+11:57:32: WDM: INFO: Get LATEST driver version for 89.0.4389
+11:57:33: WDM: INFO: Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+11:57:35: root: INFO: ********Test_002_login_ddt***********
+11:57:54: root: INFO: ********Passed***********
+2021-04-15 12:01:14,768 - INFO - ====== WebDriver manager ======
+2021-04-15 12:01:14,783 - INFO - Current google-chrome version is 89.0.4389
+2021-04-15 12:01:14,783 - INFO - Get LATEST driver version for 89.0.4389
+2021-04-15 12:01:16,610 - INFO - Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+2021-04-15 12:01:17,961 - INFO - ********Test_002_login_ddt***********
+2021-04-15 12:01:34,769 - INFO - ********Passed***********
+2021-04-15 12:01:41,879 - INFO - ********Passed***********
+2021-04-15 12:01:47,715 - INFO - ********Passed***********
+2021-04-15 12:01:53,542 - INFO - ********Passed***********
+2021-04-15 12:01:53,542 - INFO - ********Test_002_login_ddt Passed***********
+2021-04-15 12:01:53,713 - INFO - ********Completed Test_002_login_ddt ***********
+12:16:02;INFO;====== WebDriver manager ======
+12:16:02;INFO;Current google-chrome version is 89.0.4389
+12:16:02;INFO;Get LATEST driver version for 89.0.4389
+12:16:03;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+12:16:05;INFO;********Test_002_login_ddt***********
+12:16:22;INFO;********Passed***********
+12:16:29;INFO;********Passed***********
+12:16:35;INFO;********Passed***********
+12:16:41;INFO;********Passed***********
+12:16:41;INFO;********Test_002_login_ddt Passed***********
+12:16:41;INFO;********Completed Test_002_login_ddt ***********
+2021-04-15 12:19:22,426;INFO;====== WebDriver manager ======
+2021-04-15 12:19:22,441;INFO;Current google-chrome version is 89.0.4389
+2021-04-15 12:19:22,441;INFO;Get LATEST driver version for 89.0.4389
+2021-04-15 12:19:24,278;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+2021-04-15 12:19:25,570;INFO;********Test_002_login_ddt***********
+2021-04-15 12:19:43,507;INFO;********Passed***********
+2021-04-15 12:19:50,490;INFO;********Passed***********
+2021-04-15 12:19:57,138;INFO;********Passed***********
+2021-04-15 12:20:02,942;INFO;********Passed***********
+2021-04-15 12:20:02,942;INFO;********Test_002_login_ddt Passed***********
+2021-04-15 12:20:03,071;INFO;********Completed Test_002_login_ddt ***********
+2021-04-15 12:21:28;INFO;====== WebDriver manager ======
+2021-04-15 12:21:28;INFO;Current google-chrome version is 89.0.4389
+2021-04-15 12:21:28;INFO;Get LATEST driver version for 89.0.4389
+2021-04-15 12:21:29;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+2021-04-15 12:21:31;INFO;********Test_002_login_ddt***********
+2021-04-15 12:21:48;INFO;********Passed***********
+2021-04-15 12:21:55;INFO;********Passed***********
+2021-04-15 12:22:01;INFO;********Passed***********
+2021-04-15 12:22:06;INFO;********Passed***********
+2021-04-15 12:22:06;INFO;********Test_002_login_ddt Passed***********
+2021-04-15 12:22:07;INFO;********Completed Test_002_login_ddt ***********
+2021-04-15 13:13:11;INFO;====== WebDriver manager ======
+2021-04-15 13:13:11;INFO;Current google-chrome version is 89.0.4389
+2021-04-15 13:13:11;INFO;Get LATEST driver version for 89.0.4389
+2021-04-15 13:13:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+2021-04-15 13:13:14;INFO;********Test_002_login_ddt***********
+2021-04-15 13:13:34;INFO;********Passed***********
+2021-04-15 13:13:41;INFO;********Passed***********
+2021-04-15 13:13:47;INFO;********Passed***********
+2021-04-15 13:13:52;INFO;********Passed***********
+2021-04-15 13:13:52;INFO;********Test_002_login_ddt Passed***********
+2021-04-15 13:13:53;INFO;********Completed Test_002_login_ddt ***********
+2021-04-15 13:15:55;INFO;====== WebDriver manager ======
+2021-04-15 13:15:55;INFO;Current google-chrome version is 89.0.4389
+2021-04-15 13:15:55;INFO;Get LATEST driver version for 89.0.4389
+2021-04-15 13:15:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+2021-04-15 13:15:58;INFO;********Test_002_login_ddt***********
+2021-04-15 13:16:16;INFO;********Passed***********
+2021-04-15 13:16:23;INFO;********Passed***********
+2021-04-15 13:16:29;INFO;********Passed***********
+2021-04-15 13:16:34;INFO;********Passed***********
+2021-04-15 13:16:34;INFO;********Test_002_login_ddt Passed***********
+2021-04-15 13:16:35;INFO;********Completed Test_002_login_ddt ***********
