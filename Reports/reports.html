@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>reports.html</h1>
-    <p>Report generated on 15-Apr-2021 at 13:16:35 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 18-May-2021 at 20:46:14 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,8 +265,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Likhitha</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 39.98 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>1 tests ran in 35.39 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -277,27 +277,21 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="passed results-table-row">
+      <tbody class="failed results-table-row">
         <tr>
-          <td class="col-result">Passed</td>
+          <td class="col-result">Failed</td>
           <td class="col-name">testCases/test_Login_ddt.py::Test_002_login_ddt::test_login_ddt</td>
-          <td class="col-duration">39.53</td>
+          <td class="col-duration">34.84</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>
+            <div class="log">Traceback (most recent call last):<br/>  File &quot;C:\Users\karti\PycharmProjects\nopCommerce\testCases\test_Login_ddt.py&quot;, line 35, in test_login_ddt<br/>    act_title = self.driver.title<br/>  File &quot;c:\users\karti\pycharmprojects\nopcommerce\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py&quot;, line 342, in title<br/>    resp = self.execute(Command.GET_TITLE)<br/>  File &quot;c:\users\karti\pycharmprojects\nopcommerce\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py&quot;, line 321, in execute<br/>    self.error_handler.check_response(response)<br/>  File &quot;c:\users\karti\pycharmprojects\nopcommerce\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py&quot;, line 242, in check_response<br/>    raise exception_class(message, screen, stacktrace)<br/>selenium.common.exceptions.WebDriverException: Message: chrome not reachable<br/>  (Session info: chrome=90.0.4430.212)<br/> -----------------------------Captured stdout setup------------------------------ <br/>
 
 <br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - ====== WebDriver manager ======
-[WDM] - Current google-chrome version is 89.0.4389
-[WDM] - Get LATEST driver version for 89.0.4389
-[WDM] - Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
+[WDM] - Current google-chrome version is 90.0.4430
+[WDM] - Get LATEST driver version for 90.0.4430
+[WDM] - Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
 <br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:22 ====== WebDriver manager ======
-INFO     WDM:logger.py:12 Current google-chrome version is 89.0.4389
-INFO     WDM:logger.py:12 Get LATEST driver version for 89.0.4389
-INFO     WDM:logger.py:12 Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Login_ddt.py:20 ********Test_002_login_ddt***********
-INFO     root:test_Login_ddt.py:40 ********Passed***********
-INFO     root:test_Login_ddt.py:53 ********Passed***********
-INFO     root:test_Login_ddt.py:53 ********Passed***********
-INFO     root:test_Login_ddt.py:53 ********Passed***********
-INFO     root:test_Login_ddt.py:58 ********Test_002_login_ddt Passed***********
-INFO     root:test_Login_ddt.py:64 ********Completed Test_002_login_ddt ***********<br/></div></td></tr></tbody></table></body></html>
+INFO     WDM:logger.py:12 Current google-chrome version is 90.0.4430
+INFO     WDM:logger.py:12 Get LATEST driver version for 90.0.4430
+INFO     WDM:logger.py:12 Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Login_ddt.py:20 ********Test_002_login_ddt***********<br/></div></td></tr></tbody></table></body></html>

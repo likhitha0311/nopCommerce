@@ -1,1 +1,0 @@
-pytest -v --html=Reports/reports.html testCases/test_Login_ddt.py --browser chrome
